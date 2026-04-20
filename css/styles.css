@@ -146,3 +146,19 @@ a {
 .instruction-list li:last-child {
     border-bottom: none;
 }
+
+.recipe-header,
+.site-footer {
+    background-color: #555;
+    padding: 1rem 2rem;
+}
+
+.recipe-header a,
+.site-footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.site-footer {
+    margin-top: 2rem;
+}
