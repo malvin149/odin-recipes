@@ -83,3 +83,15 @@ a {
     padding: 1.5rem;
     background-color: #fff;
 }
+
+.recipe-title {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    color: #2c3e50;
+}
+
+.recipe-credit {
+    color: #888;
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+}
