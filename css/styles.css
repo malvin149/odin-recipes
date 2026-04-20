@@ -1,4 +1,8 @@
-/* General styles */
+/* 
+==============
+General styles 
+==============
+*/
 
 * {
     margin: 0;
@@ -15,9 +19,11 @@ a {
     color: #06c;
 }
 
-/*  ===============
-    Homepage styles
-    =============== */
+/*  
+===============
+Homepage styles
+=============== 
+*/
 
 .container {
     max-width: 400px;
