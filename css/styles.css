@@ -95,3 +95,19 @@ a {
     font-size: 0.9rem;
     margin-bottom: 1.5rem;
 }
+
+.recipe-image {
+    margin: 1.5rem 0;
+}
+
+.recipe-image img {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+}
+
+.recipe-image figcaption {
+    font-size: 0.8rem;
+    color: #888;
+    margin-top: 0.4rem;
+}
